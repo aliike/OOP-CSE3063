@@ -1,0 +1,6 @@
+target/
+out/
+iteration1/src/StudentRegistrationSystem/output/*.json
+iteration2/src/StudentRegistrationSystem/output/*.json
+
+
